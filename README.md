@@ -34,11 +34,17 @@
 ## 📊 Vanity Metrics
 *These green squares don't measure productivity; they measure how many times I fixed a typo and committed it directly to production.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasankaantan&theme=dark&show_icons=true&hide_border=false" alt="Hasan's Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasankaantan&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Hasan's Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasankaantan&theme=dark&layout=compact&hide_border=false" alt="Top Langs" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasankaantan&theme=dark&layout=compact&hide_border=false" alt="Top Langs" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasankaantan&theme=dark&hide_border=false" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasankaantan&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
